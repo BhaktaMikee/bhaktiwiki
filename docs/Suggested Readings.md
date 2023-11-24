@@ -1,5 +1,3 @@
-# SUGGESTED ORDER OF READING BOOKS
-
 The following is the list of **SRILA PRABHUPADA’s** books to be read by interested readers, aspiring to be serious in their spiritual life. Systematic and regular reading of these books will help the readers clearly understand the philosophy of **KRISHNA CONSCIOUSNESS** and thus develop faith and conviction.
 
 ---
