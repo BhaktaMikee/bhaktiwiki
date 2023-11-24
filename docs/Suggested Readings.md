@@ -4,17 +4,17 @@ The following is the list of **SRILA PRABHUPADA’s** books to be read by intere
 
 ## CATEGORY I
 
-1. *On The Way to Krishna*
-2. *Elevation to Krishna Consciousness*
-3. *Krishna Consciousness the Matchless Gift*
-4. *Krishna the Reservoir of Pleasure*
-5. *Perfection of Yoga*
-6. *Krishna Consciousness - The Topmost Yoga System*
-7. *Beyond Birth and Death*
-8. *Perfect Questions, Perfect Answers*
-9. *Easy Journey to Other Planets*
-10. *Raja Vidya: The King of Knowledge*
-11. *Transcendental Teachings of Prahlad Maharaj*
+1. [On The Way to Krishna](https://vedabase.io/en/library/owk/)
+2. [Elevation to Krishna Consciousness](http://files.krishna.com/en/pdf/e-books/Elevation_to_Krishna_Consciousness.pdf)
+3. [Krishna Consciousness the Matchless Gift](https://prabhupadabooks.com/pdf/Krsna-Consciousness-The-Matchless-Gift-Original-1974-book-scan.pdf)
+4. [Krishna the Reservoir of Pleasure](http://files.krishna.com/en/pdf/e-books/Krsna_the_Reservoir_of_Pleasure.pdf)
+5. [Perfection of Yoga](https://vedabase.io/en/library/poy/)
+6. [Krishna Consciousness - The Topmost Yoga System](http://files.krishna.com/en/pdf/e-books/Krsna_Consciousness_Topmost_Yoga.pdf)
+7. [Beyond Birth and Death](https://vedabase.io/en/library/bbd/)
+8. [Perfect Questions, Perfect Answers](http://prabhupadabooks.com/pdf/Perfect_Questions_Perfect_Answers-Original_1977_Edition-SCAN.pdf)
+9. [Easy Journey to Other Planets](http://prabhupadabooks.com/pdf/Easy-Journy-to-Other-Planets-1977-Scanned-edition.pdf)
+10. [Raja Vidya: The King of Knowledge](https://vedabase.io/en/library/rv/)
+11. [Transcendental Teachings of Prahlad Maharaj](http://www.prabhupada-books.de/english-book-scans/Transcendental-Teachings-of-Prahlad-Maharaj-Scan-of-Original.pdf)
 12. *Coming Back*
 13. *Message of Godhead* *
 14. *Civilization and Transcendence* *
@@ -55,9 +55,3 @@ These books are to be read after one has completed all books in Category I and C
 2. *Srimad Bhagavatam (Canto By Canto)*
 3. *Nectar Of Devotion (Part II and Part III)*
 4. *Chaitanya Charitamrita*
-
----
-
-“HARE KRISHNA HARE 
-KRISHNA KRISHNA KRISHNA HARE HARE 
-HARE RAMA HARE RAMA RAMA RAMA HARE HARE”
