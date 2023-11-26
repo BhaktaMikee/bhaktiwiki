@@ -1,4 +1,5 @@
 # requirements.txt
 mkdocs
 mkdocs-material
+mkdocs-video
 pymdown-extensions
