@@ -6,6 +6,7 @@ theme:
     - search.highlight
     - navigation.instant
     - navigation.instant.progress
+    - content.tooltips
     # - navigation.tabs
     # - navigation.tabs.sticky
   language: en
