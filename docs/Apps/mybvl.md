@@ -8,5 +8,5 @@ His Divine Grace A.C. Bhaktivedanta Swami Prabhupada is widely accepted as the w
 
 ## Download the App
 
-- [Android](https://play.google.com/store/apps/details?id=com.beyond.bvl)
-- [iOS](https://apps.apple.com/us/app/my-bvl/id1452929393?ls=1)
+- :material-google-play: [Android](https://play.google.com/store/apps/details?id=com.beyond.bvl)
+- :material-apple-ios: [iOS](https://apps.apple.com/us/app/my-bvl/id1452929393?ls=1)
