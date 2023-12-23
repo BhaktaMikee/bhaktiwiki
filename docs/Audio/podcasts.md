@@ -23,7 +23,10 @@ Yoga is WAY more than Lululemon and downward dogs. In the Modern Yogi podcast, w
 - :simple-applepodcasts: [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-modern-yogi-podcast/id1625753203)
 - :material-google-podcast: [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVtb2Rlcm55b2dpcG9kY2FzdC5jb20vZmVlZC54bWw)
 - :simple-spotify: [Spotify](https://open.spotify.com/show/6jcXhqIj4bxL8eeBh7LtTN)
-
-
 ---
 
+## The Namarasa Podcast
+
+- :simple-youtube: [Youtube](https://www.youtube.com/@NamarasaPodcast)
+- :simple-applepodcasts: [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-late-morning-program-with-namarasa/id1348449077)
+- :simple-spotify: [Spotify](https://open.spotify.com/show/6EXjrvXwlTOMc15TKrv5R0)
