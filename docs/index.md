@@ -7,6 +7,8 @@ We wanted to build a site that consolidated as many resources as possible to sup
 * Art
 * Apps
 
+You can utilize the navigation on the left or use the search at the top to find what you are interested in!
+
 ---
 
 > Hare Krishna Hare Krishna, Krishna Krishna Hare Hare, Hare Rama Hare Rama, Rama Rama Hare Hare

@@ -7,5 +7,3 @@ Within this extraordinary memoir, Radhanath Swami weaves a colorful tapestry of 
 
 ## Purchase Here
 - [Amazon](https://www.amazon.com/Journey-Home-Radhanath-Swami-ebook/dp/B01INNBZHW/ref=sr_1_1?crid=19RJZ6MH6WLWS&keywords=the+journey+home&qid=1703365258&sprefix=the+journey+hom%2Caps%2C153&sr=8-1)
-## Listen Here
-- [Youtube](https://youtube.com/playlist?list=PLSbL_RXLcZk9WkLKTmdAJcL3V29HChZy6&si=xVJ5VolzYD916cmM)
